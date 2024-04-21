@@ -15,7 +15,7 @@
 <br>
 <div align="center" width="100%">
     <img width="0%" src="https://streak-stats.demolab.com/?user=bezerragb&theme=transparent" alt="Dev.marciomartins12_Statistics"/>
-    <img width="44%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=bezerrag&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Dev.marciomartins12_Statistics"/>
+    <img width="44%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=bezerragb&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Dev.marciomartins12_Statistics"/>
     <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bezerragb&show_icons=true&locale=en&theme=transparent" alt="Dev.marciomartins12_Statistics"/>
 </div>
 
