@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=34b1eb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Bezerra;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
-<p align="center">Hey! 👋 I'm Gabriel Bezerra, Computer Science student, born on 10/19/2003 resident in Maranhão.
+<p align="center">Hey! 👋 I am a computer science student, born on 10/19/2003 and I live in Maranhão.
 </p>
  
     💻 Passionate about computers.
